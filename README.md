@@ -1,6 +1,6 @@
 # The Official Complecto Website (Lyvo Fellow Project)
 
-This app utilizes a [Firebase Real-Time Database](https://firebase.google.com/docs/database) for gathering the contact data from the users, 
+This app was created via the use of [React](https://reactjs.org) alongside a bit of JavaScript and HTML and CSS. This app also utilizes a [Firebase Real-Time Database](https://firebase.google.com/docs/database) for gathering the contact data from the users, 
 while a [Google Analytics API](https://developers.google.com/analytics/devguides/reporting/core/v4) was utlilized in the footer of the website to visualize website visits.
 
 ## Installation
